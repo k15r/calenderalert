@@ -1,5 +1,4 @@
 DateTime==4.3
-github-project-org==0.0.0
 httplib2==0.20.4
 icalendar==4.0.9
 icalevents==0.1.25
